@@ -4,6 +4,35 @@
 
 <code>Desenvolvedor Fullstack</code>
 
+
+<!-- Contact Badges -->
+<p align="center">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/nicollas-cardoso-cavalcante-correia-b0242b2b4/" style="text-decoration: none;">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781" 
+         style="height: 27px;" /></a>
+
+  <!-- Gmail Badge -->
+  <a href="mailto:nicollas3c@gmail.com" style="text-decoration: none;">
+    <img alt="Gmail" title="Send me an email" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" 
+         style="height: 27px;" /></a>
+
+  <!-- GitHub Repositories Badge -->
+  <a href="https://github.com/Nicollas3c?tab=repositories" style="text-decoration: none;">
+    <img alt="Repositories" title="See my repositories on GitHub" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=634781" 
+         style="height: 27px;" /></a>
+
+         
+  <!-- GitHub Followers Badge -->
+<a href="https://github.com/Nicollas3c?tab=followers" style="text-decoration: none;">
+  <img alt="Followers" title="My Followers on GitHub" 
+       src="https://img.shields.io/github/followers/Nicollas3c?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1" 
+       style="height: 27px;" /></a>
+</p>
+
 ###
 
 <h2 align="left">Sobre mim:</h2>
@@ -41,6 +70,9 @@
 <h2 align="left">Estatísticas:</h2>
 
 ###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicollas3c&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- GitHub Stats Cards -->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Nicollas3c&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicollas3c&theme=blueberry&layout=compact&card_width=100">
 </div>
